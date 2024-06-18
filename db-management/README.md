@@ -1,4 +1,4 @@
-# Web Development Commands
+# DB Management Commands
 
 This directory contains Linux commands related to web development. Below are subtopics:
 
